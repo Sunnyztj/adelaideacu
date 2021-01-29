@@ -1,0 +1,4 @@
+PROCESSED on Thu, 26 Sep 2019 23:10:22 +0000
+/wp-content/tablepress-combined.min.css
+/wp-content/uploads/dynamic_avia/avia-merged-styles-60f1828d3d8b9e4e03fba11c844bd1e6.css
+PROCESSED from https://adelaideacupuncture.com.au/

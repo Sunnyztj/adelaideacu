@@ -1,0 +1,5 @@
+PROCESSED on Fri, 29 Nov 2019 02:58:30 +0000
+/wp-content/uploads/dynamic_avia/enfold.css
+/wp-content/themes/enfold/css/custom.css
+/wp-content/tablepress-combined.min.css
+PROCESSED from https://adelaideacupuncture.com.au/?gclid=EAIaIQobChMInNaMv7WO5gIVwRErCh39-wcBEAMYASAAEgLeDfD_BwE

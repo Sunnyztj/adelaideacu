@@ -1,0 +1,9 @@
+PROCESSED on Fri, 29 Nov 2019 02:58:30 +0000
+/wp-content/plugins/contact-form-7-style/css/frontend.css
+/wp-content/plugins/contact-form-7-style/css/responsive.css
+/wp-content/plugins/contact-form-7/includes/css/styles.css
+/wp-content/themes/enfold/css/shortcodes.css
+/wp-content/themes/enfold/js/aviapopup/magnific-popup.css
+/wp-content/themes/enfold/css/avia-snippet-lightbox.css
+/wp-content/themes/enfold/css/avia-snippet-widget.css
+PROCESSED from https://adelaideacupuncture.com.au/?gclid=EAIaIQobChMInNaMv7WO5gIVwRErCh39-wcBEAMYASAAEgLeDfD_BwE

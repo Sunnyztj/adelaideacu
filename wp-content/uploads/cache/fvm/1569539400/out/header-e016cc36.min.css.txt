@@ -1,0 +1,29 @@
+PROCESSED on Fri, 29 Nov 2019 02:55:02 +0000
+/wp-content/themes/enfold/css/grid.css
+/wp-content/themes/enfold/css/base.css
+/wp-content/themes/enfold/css/layout.css
+/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/blog/blog.css
+/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/postslider/postslider.css
+/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/buttons/buttons.css
+/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/catalogue/catalogue.css
+/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/comments/comments.css
+/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/contact/contact.css
+/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/gallery/gallery.css
+/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/grid_row/grid_row.css
+/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/heading/heading.css
+/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/hr/hr.css
+/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/icon/icon.css
+/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/iconbox/iconbox.css
+/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/iconlist/iconlist.css
+/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/image/image.css
+/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/masonry_entries/masonry_entries.css
+/wp-content/themes/enfold/css/avia-snippet-site-preloader.css
+/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/numbers/numbers.css
+/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow/slideshow.css
+/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_fullsize/slideshow_fullsize.css
+/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_fullscreen/slideshow_fullscreen.css
+/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/slideshow_layerslider/slideshow_layerslider.css
+/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/social_share/social_share.css
+/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/team/team.css
+/wp-content/themes/enfold/config-templatebuilder/avia-shortcodes/video/video.css
+PROCESSED from https://adelaideacupuncture.com.au/zh/%E9%E2%80%99%88%E7%81%B8%E7%BE%8E%E5%AE%B9/
