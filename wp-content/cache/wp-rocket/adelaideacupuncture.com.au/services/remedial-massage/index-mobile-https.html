@@ -324,7 +324,7 @@ var avia_framework_globals = avia_framework_globals || {};
  
 
 
-<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=202104'></script>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=202106'></script>
 <script type='text/javascript' defer src='https://www.google.com/recaptcha/api.js?render=6LfzC7oUAAAAANmGE55cWoNTOL0wuonVWd5B9NKo&#038;ver=3.0'></script>
 <script type='text/javascript'>
 "use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
@@ -353,7 +353,7 @@ var RocketPreloadLinksConfig = {"excludeUris":"\/(.+\/)?feed\/?.+\/?|\/(?:.+\/)?
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script data-rocketlazyloadscript='https://www.googletagmanager.com/gtag/js?id=UA-76243248-1' async ></script>
 <script data-rocketlazyloadscript='data:text/javascript;base64,CndpbmRvdy5kYXRhTGF5ZXIgPSB3aW5kb3cuZGF0YUxheWVyIHx8IFtdOwpmdW5jdGlvbiBndGFnKCl7ZGF0YUxheWVyLnB1c2goYXJndW1lbnRzKTt9Cmd0YWcoJ2pzJywgbmV3IERhdGUoKSk7Cmd0YWcoJ2NvbmZpZycsICdVQS03NjI0MzI0OC0xJywgeyAnYW5vbnltaXplX2lwJzogdHJ1ZSB9KTsK' ></script>
-<script type='text/javascript' src='https://stats.wp.com/e-202104.js' async='async' defer='defer'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-202106.js' async='async' defer='defer'></script>
 <script type='text/javascript'>
 	_stq = window._stq || [];
 	_stq.push([ 'view', {v:'ext',j:'1:7.7.2',blog:'144897703',post:'2313',tz:'10.5',srv:'adelaideacupuncture.com.au'} ]);
@@ -362,4 +362,4 @@ var RocketPreloadLinksConfig = {"excludeUris":"\/(.+\/)?feed\/?.+\/?|\/(?:.+\/)?
 <script src="https://adelaideacupuncture.com.au/wp-content/cache/min/1/7229f709067899b4bb735328fe4c6e5a.js" data-minify="1"></script></body>
 </html>
 
-<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1611915844 -->
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1612795017 -->
